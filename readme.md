@@ -5,6 +5,8 @@ Technologies I used:
 * Express
 * ORM: Sequelize
 * View Engine: ejs
+* Postgres
+* Bootstrap
 
 ps: sorry for uploading the node modules folder xD, i forgot to configure gitignore
 
